@@ -8,7 +8,7 @@ Buttons are basic controls for any application you may build, buttons are often 
 
 ### Usage
 
-> You can check the general usage of Avalonia.FuncUI's views and attributes in the following link Views and Attributes
+> You can check the general usage of Avalonia.FuncUI's views and attributes in the following links Views and [Attributes](/view-basics/attributes) 
 
 **Create a Button**
 
