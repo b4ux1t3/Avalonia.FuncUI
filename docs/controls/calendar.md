@@ -30,7 +30,7 @@ Calendar.create [
 
 **Select Calendar Month First**
 
-You can change the [CalendarMode](http://reference.avaloniaui.net/api/Avalonia.Controls/CalendarMode/) so that you can select the year first with `CalendarMode.Decade`, the month first with `CalendarMode.Year`, or have the standard (default) format with `CalendarMode.Month`.jok
+You can change the [CalendarMode](http://reference.avaloniaui.net/api/Avalonia.Controls/CalendarMode/) so that you can select the year first with `CalendarMode.Decade`, the month first with `CalendarMode.Year`, or have the standard (default) format with `CalendarMode.Month`.
 
 ```fsharp
 Calendar.create [
